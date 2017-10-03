@@ -1,1 +1,5 @@
 Hello this is a master file
+
+renamed this file from file.txt to source.txt
+
+editfile to check difference befr and aftr commit
